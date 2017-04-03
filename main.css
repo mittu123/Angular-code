@@ -1,0 +1,5 @@
+.grid {
+  width: 500px;
+  height: 250px;
+}
+.ui-grid-filter-container { display: none!important; }
